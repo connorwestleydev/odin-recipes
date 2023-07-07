@@ -1,0 +1,27 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: lemonchiffon;
+    color: darkslategrey;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+ul {
+    list-style: none;
+}
+
+.portion {
+    font-style: italic;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
